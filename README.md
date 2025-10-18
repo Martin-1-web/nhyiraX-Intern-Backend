@@ -8,3 +8,10 @@
 ## Quick Start
 
 See `INSTALL.md` for installation and usage instructions.
+
+## Releases
+
+See [Release Information](README-RELEASES.md) for download options.
+
+- **v2.0-linux** - Complete Linux bundle with Java 21 (recommended for Linux users)
+- **v1.0** - Source code and JAR (for users with Java 21 installed)
