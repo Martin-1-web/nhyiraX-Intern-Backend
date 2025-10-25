@@ -3,17 +3,15 @@
 out/
 target/
 
-# JAR location specific files
-java-runtime/
+# User data
+users/
+uploads/
 
 # IDE files
 .idea/
 *.iml
+.vscode/
 
 # OS files
 .DS_Store
 Thumbs.db
-
-# Temporary files
-*.log
-*.tmp
