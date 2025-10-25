@@ -103,12 +103,20 @@ uploads/
 
 Each file is prefixed with a timestamp to ensure unique names.
 
+## Technical Details
+
+- **Technology**: Pure Java with built-in `HttpServer`
+- **Port**: 8081 (default)
+- **Authentication**: Cookie-based sessions
+- **Storage**: File-based (users.txt and local filesystem)
+
 ## Limitations
 
 - Passwords are stored in plain text (for learning purposes only - NOT production-ready)
 - No database - users stored in `users/users.txt`
 - Single-threaded server
 - Port 8081 is hardcoded
+- No HTTPS/SSL encryption
 
 ## Future Improvements
 
@@ -120,6 +128,13 @@ Each file is prefixed with a timestamp to ensure unique names.
 - [ ] Logout functionality
 - [ ] Remember me option
 - [ ] Password reset
+- [ ] HTTPS support
+- [ ] Multi-threaded request handling
+
+## Related Projects
+
+- 📁 [Web Server](../ServerDemo) - Lightweight HTTP server for static files
+- 📁 [View All Projects](../) - Complete internship project collection
 
 ## Author
 
