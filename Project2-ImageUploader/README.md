@@ -142,7 +142,3 @@ Martin - Backend Intern
 
 ## License
 
-## Related Projects
-
-- 📁 [Web Server](../Project1-WebServer) - Lightweight HTTP server for static files
-- 📁 [View All Projects](../) - Complete internship project collectionhis project is for educational purposes.
