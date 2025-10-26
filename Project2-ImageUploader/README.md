@@ -142,3 +142,4 @@ Martin - Backend Intern
 
 ## License
 
+© 2025 nhyiraX. Developed during internship. All rights reserved.

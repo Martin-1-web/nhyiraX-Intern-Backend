@@ -96,4 +96,4 @@ Martin - Backend Intern
 
 ## License
 
-This project is for educational purposes.
+© 2025 nhyiraX. Developed during internship. All rights reserved.
