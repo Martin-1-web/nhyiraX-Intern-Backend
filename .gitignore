@@ -1,3 +1,8 @@
+nano .gitignore
+```
+
+Make sure it has:
+```
 # Compiled files
 *.class
 out/
@@ -15,3 +20,8 @@ uploads/
 # OS files
 .DS_Store
 Thumbs.db
+
+# JRE bundles
+java-runtime/
+customjre/
+MartinWebServerApp/
